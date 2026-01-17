@@ -1,4 +1,5 @@
-# Rice Leaf Disease Detection 🌾
+# Rice Leaf Disease Detection 
+
 
 Deep Learning based system to classify major rice leaf diseases using image data.
 
