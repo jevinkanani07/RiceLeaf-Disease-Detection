@@ -38,7 +38,7 @@ To classify three major rice leaf diseases:
 - `PRCP-1001-RiceLeaf.pdf` – Project report
 - `model.h5` – Trained model
 
-## ✅ Results
+## Results
 The model successfully classifies rice leaf diseases with high accuracy. Minor misclassifications highlight real-world challenges like visual similarity between disease patterns.
 
 ## Future Improvements
@@ -46,5 +46,5 @@ The model successfully classifies rice leaf diseases with high accuracy. Minor m
 - Use transfer learning (MobileNet, ResNet)
 - Deploy model using Streamlit or Flask
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates the practical application of Deep Learning in agriculture for early disease detection and improved crop management.
