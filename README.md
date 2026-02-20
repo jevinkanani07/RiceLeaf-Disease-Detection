@@ -22,7 +22,6 @@ To classify three major rice leaf diseases:
 
 ## Technologies Used
 - Python  
-- Numpy 
 - Pandas 
 - TensorFlow / Keras  
 - NumPy,Matplotlib  
